@@ -1,0 +1,16 @@
+
+#logo img{
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+}
+
+.container{
+    margin: auto 25%;
+    margin-top: 10%;
+
+}
+.container h1{
+    font-size: 100px;
+    margin-bottom: 5%;
+}
